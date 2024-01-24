@@ -1,0 +1,2 @@
+1706055375409|1|commit|connection 0|url jdbc:p6spy:mysql://localhost:3306/world||
+1706055545415|0|commit|connection 0|url jdbc:p6spy:mysql://localhost:3306/world||
